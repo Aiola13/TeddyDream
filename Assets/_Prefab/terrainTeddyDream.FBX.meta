@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: c6a2b4dec3663a246bd32a5d163e84c8
+timeCreated: 1532011883
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Original_Floating_Island_finalCollapse
+    100002: Original_Floating_IslandEnd
+    100004: Original_Floating_IslandFirst
+    100006: Original_Floating_IslandSecond
+    100008: //RootNode
+    100010: Circle001
+    100012: Circle002
+    100014: Original_Floating_Island_finalCollapse001
+    100016: Original_Floating_IslandFirst001
+    100018: Original_Floating_IslandFirst002
+    100020: Original_Floating_IslandFirst003
+    100022: Original_Floating_IslandFirst004
+    100024: Original_Floating_IslandFirst005
+    100026: Original_Floating_IslandFirst006
+    100028: Original_Floating_IslandFirst007
+    100030: Original_Floating_IslandFirst008
+    100032: Original_Floating_IslandFirst009
+    100034: Original_Floating_IslandFirst010
+    100036: Original_Floating_IslandFirst011
+    400000: Original_Floating_Island_finalCollapse
+    400002: Original_Floating_IslandEnd
+    400004: Original_Floating_IslandFirst
+    400006: Original_Floating_IslandSecond
+    400008: //RootNode
+    400010: Circle001
+    400012: Circle002
+    400014: Original_Floating_Island_finalCollapse001
+    400016: Original_Floating_IslandFirst001
+    400018: Original_Floating_IslandFirst002
+    400020: Original_Floating_IslandFirst003
+    400022: Original_Floating_IslandFirst004
+    400024: Original_Floating_IslandFirst005
+    400026: Original_Floating_IslandFirst006
+    400028: Original_Floating_IslandFirst007
+    400030: Original_Floating_IslandFirst008
+    400032: Original_Floating_IslandFirst009
+    400034: Original_Floating_IslandFirst010
+    400036: Original_Floating_IslandFirst011
+    2100000: No Name
+    2300000: Original_Floating_Island_finalCollapse
+    2300002: Original_Floating_IslandEnd
+    2300004: Original_Floating_IslandFirst
+    2300006: Original_Floating_IslandSecond
+    2300008: Original_Floating_Island_finalCollapse001
+    2300010: Original_Floating_IslandFirst001
+    2300012: Original_Floating_IslandFirst002
+    2300014: Original_Floating_IslandFirst003
+    2300016: Original_Floating_IslandFirst004
+    2300018: Original_Floating_IslandFirst005
+    2300020: Original_Floating_IslandFirst006
+    2300022: Original_Floating_IslandFirst007
+    2300024: Original_Floating_IslandFirst008
+    2300026: Original_Floating_IslandFirst009
+    2300028: Original_Floating_IslandFirst010
+    2300030: Original_Floating_IslandFirst011
+    3300000: Original_Floating_Island_finalCollapse
+    3300002: Original_Floating_IslandEnd
+    3300004: Original_Floating_IslandFirst
+    3300006: Original_Floating_IslandSecond
+    3300008: Original_Floating_Island_finalCollapse001
+    3300010: Original_Floating_IslandFirst001
+    3300012: Original_Floating_IslandFirst002
+    3300014: Original_Floating_IslandFirst003
+    3300016: Original_Floating_IslandFirst004
+    3300018: Original_Floating_IslandFirst005
+    3300020: Original_Floating_IslandFirst006
+    3300022: Original_Floating_IslandFirst007
+    3300024: Original_Floating_IslandFirst008
+    3300026: Original_Floating_IslandFirst009
+    3300028: Original_Floating_IslandFirst010
+    3300030: Original_Floating_IslandFirst011
+    4300000: Original_Floating_Island_finalCollapse
+    4300002: Original_Floating_IslandFirst
+    4300004: Original_Floating_IslandSecond
+    4300006: Original_Floating_IslandEnd
+    4300008: Original_Floating_IslandFirst001
+    4300010: Original_Floating_IslandFirst002
+    4300012: Original_Floating_IslandFirst003
+    4300014: Original_Floating_IslandFirst004
+    4300016: Original_Floating_IslandFirst005
+    4300018: Original_Floating_IslandFirst006
+    4300020: Original_Floating_IslandFirst007
+    4300022: Original_Floating_IslandFirst008
+    4300024: Original_Floating_IslandFirst009
+    4300026: Original_Floating_IslandFirst010
+    4300028: Original_Floating_IslandFirst011
+    4300030: Original_Floating_Island_finalCollapse001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
